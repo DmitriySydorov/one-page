@@ -1,0 +1,21 @@
+{
+  "name": "murkup",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "DmitriySidorov <dmitriysidorov@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "slick-carousel": "^1.8.1"
+  }
+}
